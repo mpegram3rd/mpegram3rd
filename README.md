@@ -1,5 +1,5 @@
 👋 Hi, I’m Macon
-- 🧑‍💻 Architect/Developer @ [CapTech Consulting](https://captechconsulting.com/)
+- 🧑‍💻 Architect/Developer/Mentor @ [CapTech Consulting](https://captechconsulting.com/)
 - 🏫 BS Computer Science from Virginia Commonwealth University
 - 🌱 I’m currently learning Golang and spending a lot of time thinking about and using Serverless Design Patterns
 - 💻 Languages (present/past): Java, C#, Javascript/Typescript, HTMl/CSS, Kotlin, Golang, Python, C, Pascal, Scratch (yes I said Scratch! 😀)
