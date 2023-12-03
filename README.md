@@ -2,6 +2,7 @@
 - 🧑‍💻 Architect/Developer/Mentor @ [CapTech Consulting](https://captechconsulting.com/)
 - 🏫 Computer Science degree from Virginia Commonwealth University (Go 🐏)
 - 🌱 Life long learner, spending a lot of time thinking about and using Serverless Design Patterns
+- 💪 Passionate about Quality Software Delivery and Mentorship
 - 💻 Languages (present/past): Java, C#, Javascript/Typescript, HTMl/CSS, Kotlin, Golang, Python, C/C++, Pascal/Delphi, Scratch (yes I said Scratch! 😀)
 - 👀 Interested in coding, photography, cycling, and the outdoors
 - 🥾 VA State Parks "Master Hiker" (hiked all the state parks in VA)
