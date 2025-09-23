@@ -1,7 +1,7 @@
 👋 Hi, I’m Macon
 - 🧑‍💻 Architect/Developer/Mentor @ [CapTech Consulting](https://captechconsulting.com/)
 - 🏫 Computer Science degree from Virginia Commonwealth University (Go 🐏)
-- 🌱 Life long learner, spending a lot of time thinking about and using Serverless Design Patterns
+- 🌱 Life long learner, recently spending more time thinking about pragmatic integration of AI (LLMs and ML models) in the enterprise.
 - 🤓 Care about Quality Software Delivery and Mentoring newer coders
 - 💻 Languages (present/past): Java, C#, Javascript/Typescript, HTMl/CSS, Kotlin, Golang, Python, C/C++, Pascal/Delphi, Scratch (yes I said Scratch! 😀)
 - 👀 Interested in coding, photography, cycling, and the outdoors
