@@ -3,7 +3,7 @@
 - 🏫 Computer Science degree from Virginia Commonwealth University (Go 🐏)
 - 🌱 Life long learner, recently spending time thinking about pragmatic usage of AI (LLMs and ML models) in the enterprise.
 - 🤓 Care about Quality Software Delivery and Mentoring newer coders
-- 💻 Languages (present/past): Java, C#, Javascript/Typescript, HTMl/CSS, Kotlin, Golang, Python, C/C++, Pascal/Delphi, Scratch (yes I said Scratch! 😀)
+- 💻 Languages (present/past): Java, C#, Javascript/Typescript, HTML/CSS, Kotlin, Golang, Python, C/C++, Pascal/Delphi, Scratch (yes I said Scratch! 😀)
 - 👀 Interested in coding, photography, cycling, and the outdoors
 - 🥾 VA State Parks "Master Hiker" (hiked all the state parks in VA)
 - 📸 [52 Frames](https://52frames.com/photographer/4289) / Instagram: @mpegram3rd
